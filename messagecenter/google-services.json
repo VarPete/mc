@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "229992686651",
+    "firebase_url": "https://iothackathon-40b28.firebaseio.com",
+    "project_id": "iothackathon-40b28",
+    "storage_bucket": "iothackathon-40b28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229992686651:android:b290004ff3fc127d",
+        "android_client_info": {
+          "package_name": "com.dataunavailable.messagecentersync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229992686651-lje7kdplsvob50cu5h1ehghad7u7t1ps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dataunavailable.messagecentersync",
+            "certificate_hash": "46e52d3a9e8c14cae63bbec7913f31ab33a0d71a"
+          }
+        },
+        {
+          "client_id": "229992686651-cqu4qcbabo71k62f81k14clq90e4npge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb1SUjkDKpEfMjG80E8sBgPN1t6LpSiww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229992686651-cqu4qcbabo71k62f81k14clq90e4npge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229992686651:android:056471ed19525e17",
+        "android_client_info": {
+          "package_name": "com.dataunavailable.messagecenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229992686651-kve65nr7nkm6h59mtj6k2ihljeuiim3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dataunavailable.messagecenter",
+            "certificate_hash": "46e52d3a9e8c14cae63bbec7913f31ab33a0d71a"
+          }
+        },
+        {
+          "client_id": "229992686651-cqu4qcbabo71k62f81k14clq90e4npge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb1SUjkDKpEfMjG80E8sBgPN1t6LpSiww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229992686651-cqu4qcbabo71k62f81k14clq90e4npge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
